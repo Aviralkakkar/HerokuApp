@@ -28,7 +28,7 @@ if ('development' == app.get('env')) {
 }
 
 // HubExchange Routes
-//app.get('/', routes.index );
+//app.get('/', routes.index );aw
 //app.post('/login', routes.login );
 //app.post('/logout', routes.logout );
 
