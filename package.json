@@ -1,0 +1,36 @@
+{
+  "name": "npm-init-package",
+  "version": "1.0.0",
+  "description": "Example package.json",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aviralkakkar/HerokuApp.git"
+  },
+  "keywords": [
+    "example",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "Aviral Kakkar aviralkakkar3@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aviralkakkar/HerokuApp/issues"
+  },
+  "homepage": "https://github.com/Aviralkakkar/HerokuApp#readme"
+}
